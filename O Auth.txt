@@ -1,0 +1,16 @@
+1️⃣ What is OAuth?
+OAuth (Open Authorization) is a standard protocol used for secure delegated access
+It allows an application to access a user’s data without sharing the user’s password
+
+2️⃣ Why OAuth is Needed?
+Avoids sharing username & password with third-party apps
+Provides secure, limited, and time-bound access
+Widely used for social login and API security
+
+3️⃣ Real-World Example
+“Login with Google / Facebook / GitHub”
+You log in using Google
+App never sees your Google password
+Google gives the app a token
+
+
